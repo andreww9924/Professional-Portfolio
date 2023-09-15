@@ -4,7 +4,7 @@ type: project
 image: img/cotton/simon.png
 title: "Simon Says"
 date: 2019
-published: false
+published: true
 labels:
   - Arduino
 summary: "A simple Arduino Project I did for EE296"
