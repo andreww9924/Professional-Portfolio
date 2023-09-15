@@ -10,7 +10,7 @@ labels:
 summary: "My EE396-496 Project"
 ---
 
-  The Monet Project is a long-term project conducted by many different professors. The goal is to create reconfigurable intelligent reflecting surfaces for the Department of Defense and NIWICK. 
+  The Monet Project is a long-term project conducted by many different professors. The goal is to create reconfigurable intelligent reflecting surfaces for the Department of Defense and NIWC. 
 
   I was a part of this project for both my EE396 and EE496 required projects for the University of Hawaii at Manoa. I worked under Dr. Zheng and was given different tasks depending on what was required. During this time, I've worked on multiple different aspects of our project, such as the physical development of the lab with printed 3D models. For these models, I used Fusion.
 
