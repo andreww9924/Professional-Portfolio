@@ -9,9 +9,7 @@ labels:
   - Meteor
 ---
 
-Authors:
-Andrew Wan
-Loyd Sanderson
+Authors: Andrew Wan & Lloyd Sanderson
 
 Modern-day classrooms, especially those in the field of Computer Science, often face challenges when it comes to fostering socialization among students. The prevailing stereotype of Computer Science students as "awkward" and "introverted" only exacerbates the issue, leading to a lack of meaningful connections within the academic community. The recent impact of the COVID-19 pandemic has further diminished students' social skills, making it imperative to address this challenge. In response to these concerns, we propose the development of a dedicated third-party application designed to enhance social interactions among Computer Science enthusiasts.
 
