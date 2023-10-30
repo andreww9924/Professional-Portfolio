@@ -9,6 +9,10 @@ labels:
   - Meteor
 ---
 
+Authors:
+Andrew Wan
+Loyd Sanderson
+
 Modern-day classrooms, especially those in the field of Computer Science, often face challenges when it comes to fostering socialization among students. The prevailing stereotype of Computer Science students as "awkward" and "introverted" only exacerbates the issue, leading to a lack of meaningful connections within the academic community. The recent impact of the COVID-19 pandemic has further diminished students' social skills, making it imperative to address this challenge. In response to these concerns, we propose the development of a dedicated third-party application designed to enhance social interactions among Computer Science enthusiasts.
 
 Computer Science students are, fundamentally, human beings who require socialization for personal and academic growth. Our solution is an innovative app—let's call it "Unhinder"— specifically tailored to the needs of Computer Science enthusiasts. Unlike generic social platforms, Unhinder will provide a niche space for students to connect with peers who share similar interests, creating a vibrant community within the realm of technology and beyond.
