@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "Tinder for Computer Science Students: Hinder"
+date: 2023-10-30
+published: true
+labels:
+  - Software Engineering
+  - Design Patterns
+---
+
 In the culinary world, design patterns are like cooking techniques. Each design pattern represents recipes, culinary skills, or kitchens gadget that chefs have learned to use over time. These patterns are the secret ingredients behind elegant and efficient code, just as culinary techniques create delicious dishes.
 
 Design patterns in software development are like the recipes in a cookbook. They offer a structured approach to solving common issues, ensuring that your codebase is as organized as a chef's set up. Think of them as the cooking techniques that are applied to transform ingredients into a meals.
