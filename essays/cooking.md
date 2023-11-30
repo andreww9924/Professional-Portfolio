@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Let Me Cook: Coding Like I'm Cooking"
-date: 2023-10-30
+date: 2023-11-29
 published: true
 labels:
   - Software Engineering
