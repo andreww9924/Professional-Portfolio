@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Reflection on My Experiences with Software Development"
-date: 2023-10-30
+date: 2023-12-11
 published: true
 labels:
   - Software Engineering
