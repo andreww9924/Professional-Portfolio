@@ -1,6 +1,17 @@
+---
+layout: essay
+type: essay
+title: "Reflection on My Experiences with Software Development"
+date: 2023-10-30
+published: true
+labels:
+  - Software Engineering
+  - Agile Project Management
+  - Open Source Software Development
+  - Functional Programming
+---
 
-
-In the world of software development, the creation of web applications often seems like the primary objective. However, it is important to recognize that web application development is just one component of the broader field of software engineering. This essay aims to reflect on on two specific concepts in software engineering: Agile Project Management and Open Source Software Development. These concepts are not limited to web applications but can be applied in various project contexts.
+In the world of software development, the creation of web applications often seems like the primary objective. However, it is important to recognize that web application development is just one component of the broader field of software engineering. This essay aims to reflect on two specific concepts in software engineering: Agile Project Management and Open Source Software Development. These concepts are not limited to web applications but can be applied in various project contexts.
 
 Agile Project Management is a software development idea that emphasizes iterative development, collaboration, and adaptability to change. It is not exclusive to web application development but can be effectively applied to a wide range of projects in different domains.
 
