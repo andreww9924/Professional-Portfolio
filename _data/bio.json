@@ -10,9 +10,7 @@
     "location": { "address": "1858 Paula Dr", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "andreww9924", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "andrew-wan-9a55bb207", "url": "http://linkedin.com/in/andrew-wan-9a55bb207" },
-      { "network": "twitter", "username": "andrew", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "andrew", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "andrew-wan-9a55bb207", "url": "http://linkedin.com/in/andrew-wan-9a55bb207" }
     ]
   },
   "interests": [
