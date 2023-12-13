@@ -7,7 +7,9 @@ date: 2023-11-20
 published: true
 labels:
   - AI
-  - Coding
+  - Software Development
+  - Computer Science
+  - AI use in Classroom
 ---
 
 Artificial Intelligence has become an integral part of modern education. Artificial intelligence can be a double-edged sword when it comes to learning computer science in a classroom setting. On one hand, it can act as a valuable assistant, providing insights, suggestions, and solutions to complex problems. On the other hand, there is a risk of over-reliance on AI, potentially hindering the development of critical thinking and problem-solving skills.
