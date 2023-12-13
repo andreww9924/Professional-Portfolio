@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/simon.png
 title: "UH-Connect: Where Students Meet Employers"
-date: 2019
+date: 2023
 published: true
 labels:
   - Software Development
