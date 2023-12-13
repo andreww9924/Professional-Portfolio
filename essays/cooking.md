@@ -7,6 +7,8 @@ published: true
 labels:
   - Software Engineering
   - Design Patterns
+  - Singleton Pattern
+  - Factory Method
 ---
 
 In the culinary world, design patterns are like cooking techniques. Each design pattern represents recipes, culinary skills, or kitchen gadgets that chefs have learned to use over time. These patterns are the secret ingredients behind elegant and efficient code, just as culinary techniques create delicious dishes.
