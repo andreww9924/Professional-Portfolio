@@ -13,6 +13,8 @@ labels:
 summary: "A project done for my software development class: ICS 314."
 ---
 
+Link to Project Homepage: https://uh-connect.github.io/home-page/
+
 UH Connect is a group project assigned as our final project for our software development course: ICS 314. During my involvement with the UH-Connect project, I had the opportunity to gain valuable insights into the world of software engineering and web development. UH-Connect is my most recent and is one of the most complex projects I've worked on during college.
 
 I was responsible for developing the student view, where students can access job listings and create or edit their profiles. This involved creating the profile editing page, which allows students to showcase their skills and qualifications to potential employers. Additionally, I worked on the company view, enabling companies to post job opportunities, view student profiles, and manage their candidate lists. This aspect of the project was critical in ensuring that both students and employers could easily connect. I also played a role in the admin view, ensuring that administrators had the necessary tools to oversee the platform's operations and ensure its smooth functioning.
