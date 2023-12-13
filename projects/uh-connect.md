@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/simon.png
+image: img/uh-connect/simon.png
 title: "UH-Connect: Where Students Meet Employers"
 date: 2023
 published: true
