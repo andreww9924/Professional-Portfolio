@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/125630374?…00&u=40a75403333596f6b72a43e6c8ffa935337bca22&v=4",
     "email": "chaoran@hawaii.edu",
-    "phone": "6304186657",
+    "phone": "630-418-6657",
     "website": "https://andreww9924.github.io",
     "summary": "I am studying for a B.S. in Computer Engineer at the University of Hawaii. I expect to graduate in Fall, 2023.",
     "location": { "address": "1858 Paula Dr", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -51,50 +51,41 @@
     {
       "company": "University of Hawaii at Manoa, Honolulu, Hawaii",
       "position": "Traffic Web Designer",
-      "startDate": "June 2023",
-      "endDate": "December 2023",
+      "startDate": "2023",
+      "endDate": "2023",
       "summary": "Conducted research on Neural Networks and effectively applied them to traffic recognition. Applied machine learning techniques to accurately identify and classify vehicles positioned at intersections. Generated diverse and representative datasets to serve as inputs for training the YOLOv5 (You Only Look Once) machine learning GitHub repository. Leveraged Python programming language to customize the YOLOv5 machine learning repository on GitHub, tailoring it to align with our unique requirements and objectives. Optimized the YOLOv5 model by fine-tuning hyperparameters and conducting rigorous testing, resulting in significantly improved accuracy and performance. Developed and crafted a professional website for the Hawaii LTAP (Local Technical Assistance Program), showcasing a user-friendly interface and engaging design. Conducted thorough research on previous projects undertaken by Hawaii LTAP (Local Technical Assistance Program) and appropriately documented them. Surveyed many users and gathered feedback on the Hawaii LTAP website, incorporating user suggestions to enhance usability and user experience."
     },
     {
       "company": "University of Hawaii at Manoa, Honolulu, Hawaii",
       "position": "Research Assistant",
-      "startDate": "June 2022",
-      "endDate": "August 2023",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "Presented research on Intelligent Reflecting Surfaces to the Department of Defense. Collaborated closely with a select team of graduate students to conduct simulations of Intelligent Reflecting Surfaces. Consistently reached deadlines ahead of time with great teamwork. Utilized Python, Linux, and GNURadio to recreate and simulate MIMO (Multiple-Input Multiple-Output) reflectors. Adapted MIMO to these affected reflecting surfaces to understand further and analyze 5G signals. Enhanced expertise in LabVIEW by designing comprehensive schematics for data measurement in a spectrum analyzer. Skillfully integrated Excel with LabVIEW to develop advanced features for recording results effectively. Utilized AutoCAD Fusion to design a series of 3D models, resulting in enhanced efficiency and organization for the physical setup. Demonstrated a proactive approach in consistently elevating the lab environment, achieving a more professional and visually appealing presentation. Updated our research group’s Github with new 3D models and codes."
     },
     {
       "company": "Axle Informatics, Remote",
       "position": "Research Associate",
-      "startDate": "June 2021",
-      "endDate": "August 2021",
+      "startDate": "2021",
+      "endDate": "2021",
       "summary": "Engaged in extensive research on bioinformatics, focusing on the field of GARD (Genetic and Rare Diseases). Modernized Python codes to collect data regarding GARD to be put into a database. Monitored the results from these Python codes to ensure their quality. Verified and confirmed the viability of previously written Python codes. Updated and fixed several outdated countless broken Python codes."
     }
   ],
-  "volunteer": [
+"volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "Manor Care, Ogden, Illinois",
+      "website": "",
+      "position": "Dietary Aide",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "Provided meal preparation services for elderly residents at a nursing home."
     },
     {
-      "organization": "",
+      "organization": "Ray Chinese School, Naperville, Illinois",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "position": "Teaching Assistant",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Volunteered at a local Chinese school and assisted in teaching simple Chinese to kindergarteners."
     }
   ]
 }
