@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/fieldfox.jpg
+image: img/cotton/fieldfox.png
 title: "The Monet Project"
 date: 2022
 published: true
