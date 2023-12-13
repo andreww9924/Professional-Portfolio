@@ -39,7 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
-      "courses": [ "ICS-314: Object-Oriented Software Development (Current)", "EE-468: Operating Systems (Current)", "EE-406: Cyber Security (Current)", "EE-205: Object Oriented Programming", "EE-367: Data Structure & Algorithms", "EE-345: Linear Algebra", "EE-342: Probability and Statistics", "EE-362: Discrete Math"
+      "courses": [ "ICS-314: Object-Oriented Software Development", "EE-468: Operating Systems", "EE-406: Cyber Security", "EE-205: Object Oriented Programming", "EE-367: Data Structure & Algorithms", "EE-345: Linear Algebra", "EE-342: Probability and Statistics", "EE-362: Discrete Math"
       ]
     }
   ],
