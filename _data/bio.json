@@ -15,10 +15,17 @@
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "Signals and Communication" },
+    { "name": "Cyber Security" },
     { "name": "Web Development" },
+    { "name": "Linux" },
+    { "name": "Operating Systems" },
+    { "name": "AWS" },
+    { "name": "Matlab" },
+    { "name": "Signals and Communication" },
     { "name": "AutoCAD and Inventor" },
-    { "name": "Electronics" }
+    { "name": "Adobe" },
+    { "name": "Software" },
+    { "name": "Hardware" }
   ],
   "skills": [
     {
