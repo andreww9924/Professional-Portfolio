@@ -24,12 +24,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "name": "Technical Skills",
+      "keywords": [ "Python", "Java", "C", "C+", "Javascript/Scripting", "Linux and Bash", "SQL", "HTML/CSS" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Application Skills",
+      "keywords": [ "Visual Studio/Visual Studio Code", "IntelliJ", "Git/Github", "AWS", "Matlab", "LabVIEW", "CAD/AutoCAD", "Autodesk Inventor", "GNURadio", "Arduino", "Adobe Premiere" ]
+    },
+    {
+      "name": "Conceptual Skills",
+      "keywords": [ "Cyber Security", "Operating Systems", "Machine Learning/Artificial Intelligence", "IoT", "Big Data" ]
     }
   ],
   "education": [
@@ -91,25 +95,6 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
