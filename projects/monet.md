@@ -10,7 +10,7 @@ labels:
   - Electrical Engineering
   - Research
   - CAD
-summary: "My EE396-496 Project"
+summary: "My Junior and Senior Project for School."
 ---
 
 The Monet Project represents a significant and ongoing endeavor led by multiple distinguished professors. Its overarching objective is to develop adaptable and intelligent reflecting surfaces to serve the Department of Defense and NIWC.
