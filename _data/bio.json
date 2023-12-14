@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Andrew Wan",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/125630374?…00&u=40a75403333596f6b72a43e6c8ffa935337bca22&v=4",
+    "email": "candrewwan@gmail.com",
+    "phone": "630-418-6657",
+    "website": "https://andreww9924.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineer at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "1858 Paula Dr", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "andreww9924", "url": "http://github.com/andreww9924" },
+      { "network": "linkedin", "username": "andrew-wan-9a55bb207", "url": "http://linkedin.com/in/andrew-wan-9a55bb207" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Cyber Security" },
+    { "name": "Web Development" },
+    { "name": "Linux" },
+    { "name": "Operating Systems" },
+    { "name": "AWS" },
+    { "name": "Matlab" },
+    { "name": "Signals and Communication" },
+    { "name": "AutoCAD and Inventor" },
+    { "name": "Adobe" },
+    { "name": "Software" },
+    { "name": "Hardware" }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "keywords": [ "Python", "Java", "C", "C+", "Javascript/Scripting", "Linux and Bash", "SQL", "HTML/CSS" ]
+    },
+    {
+      "name": "Application Skills",
+      "keywords": [ "Visual Studio/Visual Studio Code", "IntelliJ", "Git/Github", "AWS", "Matlab", "LabVIEW", "CAD/AutoCAD", "Autodesk Inventor", "GNURadio", "Arduino", "Adobe Premiere" ]
+    },
+    {
+      "name": "Conceptual Skills",
+      "keywords": [ "Cyber Security", "Operating Systems", "Machine Learning/Artificial Intelligence", "IoT", "Big Data" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Winter, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "courses": [ "ICS-314: Object-Oriented Software Development", "EE-468: Operating Systems", "EE-406: Cyber Security", "EE-205: Object Oriented Programming", "EE-367: Data Structure & Algorithms", "EE-345: Linear Algebra", "EE-342: Probability and Statistics", "EE-362: Discrete Math"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii at Manoa, Honolulu, Hawaii",
+      "position": "Traffic Web Designer",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Conducted research on Neural Networks and effectively applied them to traffic recognition. Applied machine learning techniques to accurately identify and classify vehicles positioned at intersections."
+    },
+    {
+      "company": "University of Hawaii at Manoa, Honolulu, Hawaii",
+      "position": "Research Assistant",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Presented research on Intelligent Reflecting Surfaces to the Department of Defense. Collaborated closely with a select team of graduate students to conduct simulations of Intelligent Reflecting Surfaces."
+    },
+    {
+      "company": "Axle Informatics, Remote",
+      "position": "Research Associate",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Engaged in extensive research on bioinformatics, focusing on the field of GARD (Genetic and Rare Diseases). Modernized Python codes to collect data regarding GARD to be put into a database."
+    }
+  ],
+"volunteer": [
+    {
+      "organization": "Manor Care, Ogden, Illinois",
+      "website": "",
+      "position": "Dietary Aide",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "Provided meal preparation services for elderly residents at a nursing home."
+    },
+    {
+      "organization": "Ray Chinese School, Naperville, Illinois",
+      "website": "",
+      "position": "Teaching Assistant",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Volunteered at a local Chinese school and assisted in teaching simple Chinese to kindergarteners."
+    }
+  ]
+}
