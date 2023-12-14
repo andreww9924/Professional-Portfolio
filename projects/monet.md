@@ -7,6 +7,9 @@ date: 2022
 published: true
 labels:
   - Signal Analysis
+  - Electrical Engineering
+  - Research
+  - CAD
 summary: "My EE396-496 Project"
 ---
 
