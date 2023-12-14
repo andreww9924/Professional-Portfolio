@@ -7,6 +7,9 @@ date: 2023
 published: true
 labels:
   - Arduino
+  - Arduino IDE
+  - Personal Project
+  - Software
 summary: "A personal project I made for daily use."
 ---
 
