@@ -22,3 +22,5 @@ This project involved the use of sensors to feed data into multiple Arduino inpu
 While it may be categorized as a relatively simple project in terms of complexity, it has impacted my life the most out of any project I've done in college. This project has become a part of my daily exercise routine.
 
 My journey with Arduino projects, especially the DDR pad, taught me the importance of creativity and innovation in problem-solving. I learned how to leverage sensors and Arduino microcontrollers to replicate real-world experiences in a fun and engaging way. Moreover, this project underscored the significance of simplicity in design, as even seemingly basic projects can have a lasting and meaningful impact on one's daily life. Overall, my experience with Arduino projects has not only bolstered my technical skills but also fueled my passion for exploring the limitless possibilities of electronics and programming.
+
+Link to code: https://github.com/teejusb/fsr
