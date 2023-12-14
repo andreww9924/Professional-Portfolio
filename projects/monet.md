@@ -10,12 +10,14 @@ labels:
 summary: "My EE396-496 Project"
 ---
 
-  The Monet Project is a long-term project conducted by many different professors. The goal is to create reconfigurable intelligent reflecting surfaces for the Department of Defense and NIWC. 
+The Monet Project represents a significant and ongoing endeavor led by multiple distinguished professors. Its overarching objective is to develop adaptable and intelligent reflecting surfaces to serve the Department of Defense and NIWC.
 
-  I was a part of this project for both my EE396 and EE496 required projects for the University of Hawaii at Manoa. I worked under Dr. Zheng and was given different tasks depending on what was required. During this time, I've worked on multiple different aspects of our project, such as the physical development of the lab with printed 3D models. For these models, I used Fusion.
+I actively contributed to this project as a crucial part of both my EE396 and EE496 mandatory coursework at the University of Hawaii at Manoa. My mentor throughout this journey was Dr. Zheng, and my responsibilities varied depending on project needs. My involvement encompassed a wide range of tasks, including the physical design and fabrication of 3D models for our laboratory, for which I utilized Fusion software.
 
-  This project also involved testing signal phase and magnitude. We used a testbed to analyze and create these values.
+The project entailed rigorous signal analysis, involving the measurement of signal phase and magnitude. To achieve this, we employed a specialized testbed to generate and evaluate these critical values.
 
-  I also was tasked with creating Labview schematics to adjust a spectrum analyzer.
+One of my key responsibilities involved the creation of LabVIEW schematics, which played an instrumental role in adjusting and fine-tuning a spectrum analyzer.
 
-  Overall, this was a long-term project for the team, as well as myself.
+Participating in the Monet Project provided me with invaluable hands-on experience in various aspects of electrical engineering and research. I honed my skills in 3D modeling using Fusion, gained a deep understanding of signal analysis techniques, and became proficient in LabVIEW schematic design. Furthermore, I learned the importance of collaboration and adaptability in a long-term, multifaceted project. This experience has not only enhanced my technical abilities but also prepared me for future challenges in the field of electrical engineering and research.
+
+Link to the repository: https://github.com/gustybear-research
